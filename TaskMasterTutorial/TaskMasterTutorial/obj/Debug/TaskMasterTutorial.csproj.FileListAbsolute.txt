@@ -1,0 +1,10 @@
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\TaskMasterTutorial.exe.config
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\TaskMasterTutorial.exe
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\TaskMasterTutorial.pdb
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.csprojAssemblyReference.cache
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.TaskMaster.resources
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.Properties.Resources.resources
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.csproj.GenerateResource.cache
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.csproj.CoreCompileInputs.cache
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.exe
+C:\Users\jonat\repos\entityLes\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\TaskMasterTutorial.pdb
